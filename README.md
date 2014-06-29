@@ -1,4 +1,4 @@
 SudokuSolver
 ============
 
-Sudoku solver using constraint propagation
+Sudoku solver using constraint propagation (undergrad project)
